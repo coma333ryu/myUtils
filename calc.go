@@ -1,4 +1,5 @@
-package stringUtils
+package utils
+
 
 func AddNum(iArgs ... int) int {
 	result := 0
